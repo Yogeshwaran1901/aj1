@@ -1,0 +1,744 @@
+.aa {
+    background-image: url('https://img.freepik.com/free-vector/modern-merry-christmas-background-with-modern-design_1361-2015.jpg?w=1060&t=st=1671631915~exp=1671632515~hmac=bcafa2be0872e715fbedc6b84bc1c8726628a0ed6650d4e3ba0914f8f25f6a0c');
+    height: 110vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 10px;
+}
+
+.aa7 {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://img.freepik.com/free-vector/gift-concept-illustration_114360-629.jpg?w=1060&t=st=1673855365~exp=1673855965~hmac=9ebd4f8f4647b93f7873f0fa3f31078246a12df2eb62f5081aa96a03761c556b');
+    background-size: cover;
+}
+
+.bb7 {
+    height: 50vh;
+    width: 100vw;
+    background-image: url('https://img.freepik.com/free-vector/merry-christmas-greeting-card-with-decorative-items_1017-28943.jpg?w=1060&t=st=1671347660~exp=1671348260~hmac=d04711d085ec017e79615e2ded302e7c829e17b6b145641b18021e8122ae3028');
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-top: 10vh;
+    box-shadow: 5px 4px 5px black;
+    font-variant: inherit;
+}
+
+.cd7 {
+    font-family: "Serif";
+    font-size: 3.5vh;
+    margin-top: 5vh;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    height: 12vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 10));
+    font-stretch: ultra-condensed;
+}
+
+.cc7 {
+    font-family: "Times New Roman";
+    font-size: 2.5vh;
+    font-weight: 500;
+    margin-top: 5vh;
+    background-color: #fff;
+    text-align: center;
+    color: #183b56;
+    border-radius: 15%;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: 4px 4px 4px black;
+}
+
+.dd7 {
+    margin-left: 40vw;
+    height: 6.9vh;
+    width: 20vw;
+    transition: 0.5s 1s;
+}
+
+.dd7:hover {
+    width: 25vw;
+    height: 7.2vh;
+    transition: 0.5s;
+}
+
+.a7 {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+.b7 {
+    height: 35vh;
+    width: 78vw;
+    background-color: #fff;
+    border-color: #145bc1;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-left: 10vw;
+    margin-top: -20vh;
+}
+
+.c7 {
+    font-family: Times New Roman;
+    font-size: 2.5vh;
+    font-weight: 500;
+    text-align: center;
+    color: #1b1b1b;
+}
+
+.d7 {
+    margin-left: 10vw;
+    height: 6.9vh;
+    width: 20vw;
+}
+
+.e7 {
+    margin-left: 16vw;
+    height: 6.9vh;
+    width: 20vw;
+}
+
+.f7 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    background-color: red;
+    width: 30vw;
+    margin-left: 23vw;
+    margin-top: 1vh;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 5px;
+}
+
+.f17 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    background-color: red;
+    width: 30vw;
+    margin-left: 35vw;
+    margin-top: 1vh;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 5px;
+}
+
+.z1 {
+    background-color: #fff;
+    border-color: white;
+    height: 40vh;
+    border-style: solid;
+    border-width: 2px;
+    width: 100vw;
+}
+
+.y1 {
+    height: 5vh;
+    width: 5vh;
+    margin: 3vw;
+}
+
+.x1 {
+    text-align: center;
+    font-size: 3.5vh;
+    color: black;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+.w1 {
+    text-align: center;
+    font-size: 1.5vh;
+    color: black;
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+}
+
+.b6 {
+    background-image: url(' https://img.freepik.com/free-photo/pieces-black-chocolate_144627-15877.jpg?w=1060&t=st=1673775203~exp=1673775803~hmac=f0bed736a2b4d4a836a08932143cc3c4a8a5e2ef00c6762fe0fb2cc12281c35c');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.b5 {
+    background-image: url('https://img.freepik.com/free-photo/top-view-party-still-life_23-2148736218.jpg?w=1060&t=st=1673767318~exp=1673767918~hmac=e9639de22d9a2f5dff4108a472e85f551ffdc5bac4df715e5c03d9e40b24ec65');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.c5 {
+    height: 40vh;
+    width: 60vw;
+    margin-top: 40px;
+    margin-left: 40px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+
+.bb {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), black);
+    background-size: cover;
+    margin-top: 9px;
+    margin-left: 14px;
+    width: 310px;
+    height: 410px;
+    border-radius: 8px;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.cc {
+    background-color: #d9454d;
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 85px;
+    box-shadow: 3px 3px 4px black;
+}
+
+.dd {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-shadow: 3px 3px 3px black;
+}
+
+.ee {
+    margin: 14px;
+    font-size: 20px;
+    color: white;
+    font-family: "roboto";
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 3px 3px 4px red;
+}
+
+.ff {
+    margin-top: -2px;
+    margin-left: 15px;
+    font-family: courier;
+    font-weight: bold;
+    color: black;
+    width: 250px;
+}
+
+.gg {
+    color: white;
+    font-size: 13px;
+    margin-left: 8px;
+    margin-top: -5px;
+    width: 170px;
+    padding: 4px;
+    font-style: italic;
+}
+
+.hh {
+    padding: 2px;
+    margin: 5px;
+}
+
+.ii {
+    box-shadow: 3px 3px 4px black;
+    height: 36px;
+    text-align: center;
+    width: 75px;
+    margin-top: -45px;
+    margin-left: 200px;
+}
+
+.kk {
+    border-radius: 8px;
+    height: 25vh;
+    margin-top: 3px;
+}
+
+.a {
+    background-image: url('https://img.freepik.com/free-vector/merry-christmas-greeting-card-with-decorative-items_1017-28943.jpg?w=1060&t=st=1671347660~exp=1671348260~hmac=d04711d085ec017e79615e2ded302e7c829e17b6b145641b18021e8122ae3028');
+    text-align: center;
+    height: 110vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.b {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Consolas";
+    font-size: 40px;
+}
+
+.c {
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+    font-weight: bold;
+    font-family: "Courier";
+}
+
+.e {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://img.freepik.com/free-vector/cute-christmas-card-with-christmas-landscape-claus-background_1361-3641.jpg?w=1060&t=st=1671347744~exp=1671348344~hmac=b9d3a3c819d6105033c833a6da28356057885b8f0292361e75643647b9103643');
+    text-align: center;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 15px;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+}
+
+.d {
+    color: black;
+    height: 35px;
+    width: 70px;
+    font-family: "roboto";
+    border-width: 0px;
+    border-radius: 30px;
+    background-color: red;
+}
+
+.y {
+    border-width: 1px;
+    border-block-color: white;
+}
+
+.z {
+    clip-path: circle();
+    border-style: ridge;
+    border-width: 3px;
+    border-color: white;
+}
+
+.aaa {
+    background-image: url('https://img.freepik.com/free-vector/red-chriatmas-banner-with-baubles-snowflake-decoration_1017-28677.jpg?w=1060&t=st=1671261031~exp=1671261631~hmac=069638a46f041124b3405c725d52b1f6d319400eb626d04add1fc2b0b1bdb5f0');
+    background-size: cover;
+    height: 100vh;
+    width: 110vw;
+}
+
+.bbb {
+    color: white;
+    font-family: "Courier";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 19px;
+    width: 200px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+.ccc {
+    background-image: url('https://img.freepik.com/free-vector/christmas-greeting-with-realistic-decoration-elements_1017-29140.jpg?w=1060&t=st=1671260884~exp=1671261484~hmac=10a003fd600872f1d97956ef10da605f3fa09eb9993806f3348d13fbce21268c');
+    height: 110vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.ddd {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 6px;
+    margin: 8px;
+    border-style: solid;
+    border-top: 0px;
+    border-color: grey;
+    border-bottom: 0px;
+    transition: all, 1s;
+}
+
+.ddd:hover {
+    height: 210px;
+    width: 210px;
+    transition-delay: -20s;
+}
+
+.eee {
+    height: 100px;
+    width: 125px;
+    padding: 0px;
+    margin: 10px;
+}
+
+.fff {
+    height: 70px;
+    width: 105px;
+    padding: 0px;
+    margin: 25px;
+}
+
+.ggg {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.hhh {
+    height: 90px;
+    width: 95px;
+    padding: 5px;
+    margin-left: 28px;
+    margin-top: 20px;
+}
+
+.iii {
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    padding: 1px;
+}
+
+.jjj {
+    margin: 6px;
+    width: 120px;
+    height: 40px;
+}
+
+.kkk {
+    height: 125px;
+}
+
+.aaaa {
+    background-image: url('https://img.freepik.com/free-photo/3d-render-tree-landscape-against-night-sky_1048-5698.jpg?w=1060&t=st=1672122717~exp=1672123317~hmac=682e106bfc7ccde8fca5e3b8b6e8c724409e7fa48ab10fa3b5b21dc673b686e3');
+    background-size: cover;
+    height: 100px;
+    width: 350px;
+}
+
+.bbbb {
+    color: white;
+    font-family: "Courier";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 19px;
+    width: 200px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+.cccc {
+    background-image: url('https://img.freepik.com/free-photo/3d-render-tree-landscape-against-night-sky_1048-5698.jpg?w=1060&t=st=1672122717~exp=1672123317~hmac=682e106bfc7ccde8fca5e3b8b6e8c724409e7fa48ab10fa3b5b21dc673b686e3');
+    height: 110vh;
+    width: 100vw;
+    background-size: cover;
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightblue;
+}
+
+.dddd {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 6px;
+    margin: 8px;
+    border-style: solid;
+    box-shadow: 3px 3px 4px #96948c;
+    border-top: 0px;
+    border-color: grey;
+    border-bottom: 0px;
+    transition: all, 1s;
+}
+
+.dddd:hover {
+    width: 210px;
+    height: 210px;
+    background-color: white;
+    transition-delay: -20s;
+}
+
+.eeee {
+    height: 100px;
+    width: 125px;
+    padding: 0px;
+    margin: 14px;
+}
+
+.ffff {
+    height: 70px;
+    width: 105px;
+    padding: 0px;
+    margin: 25px;
+}
+
+.gggg {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.hhhh {
+    height: 90px;
+    width: 95px;
+    padding: 5px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.iiii {
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    padding: 1px;
+}
+
+.jjjj {
+    height: 40px;
+    margin: 10px;
+    width: 110px;
+}
+
+.kkkk {
+    height: 125px;
+}
+
+.aaaaa {
+    background-color: white;
+    height: 150vh;
+    width: 100vw;
+}
+
+.bbbbb {
+    background-image: url('https://img.freepik.com/free-vector/abstract-background_53876-90688.jpg?w=1060&t=st=1672482382~exp=1672482982~hmac=b2459042cad32d6909218257e333f2072542787d55c4e2b47756bcc84279905b');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.ccccc {
+    height: 48vh;
+    width: 53vw;
+    margin-left: 50px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+
+.ddddd {
+    margin-top: 20px;
+    height: 20vh;
+    width: 85vw;
+}
+
+.eeeee {
+    height: 25vh;
+    width: 80vw;
+    padding: 6px;
+    margin-top: 30px;
+    border-color: white;
+    box-shadow: 2px 2px 3px black;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.fffff {
+    background-color: white;
+    border-radius: 20px;
+    width: 94vw;
+    height: 70vh;
+    margin: 10px;
+    border-color: white;
+    margin-top: 25px;
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.ggggg {
+    margin: 23px;
+    margin-top: 30px;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.hhhhh {
+    margin-left: 19px;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: 350;
+}
+
+.iiiii {
+    margin-left: 19px;
+    padding: 8px;
+    font-size: 12px;
+    font-weight: 350;
+}
+
+.jjjjj {
+    background-color: white;
+    margin-left: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+    color: green;
+    font-size: 8px;
+    width: 400px;
+    height: 26px;
+    border-radius: 4px;
+    margin-top: -12px;
+}
+
+.lllll {
+    font-size: 10px;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+
+.mmmmm {
+    height: 35px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 70px;
+    margin-left: 10px;
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.nnnnn {
+    width: 100px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+
+.b1 {
+    background-image: url('https://img.freepik.com/free-photo/plain-smooth-maroon-paper-background_53876-128606.jpg?w=1060&t=st=1672572023~exp=1672572623~hmac=3db5a11ca8ca4b7b4af862016f1838bf1cf11aaa7c63f62505735d284553a35f');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.c1 {
+    height: 110vh;
+    width: 63vw;
+    margin-top: 50px;
+    margin-left: 40px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+
+.e1 {
+    height: 30vh;
+    width: 80vw;
+    padding: 6px;
+    margin-top: 30px;
+    border-color: white;
+    box-shadow: 2px 2px 3px black;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.b2 {
+    background-image: url('https://img.freepik.com/free-vector/empty-poster-blue-room_1017-2247.jpg?w=1060&t=st=1672760013~exp=1672760613~hmac=d1c8d3893fbb52af8afb1f70cef3fec0d44af704f56ff712122aa29cccb85d44');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.b3 {
+    background-image: url('https://res.cloudinary.com/dsueinfga/image/upload/v1673709020/blog-banner-paints-1_m14rjl.jpg');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.c2 {
+    height: 40vh;
+    width: 63vw;
+    margin-top: 40px;
+    margin-left: 40px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+
+.b4 {
+    background-image: url('https://img.freepik.com/premium-photo/colorful-candies-jelly-marmalade-wooden-box-sweets-old-background-top-view-free-copy-space_187166-54163.jpg?w=1060');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.c4 {
+    height: 40vh;
+    width: 63vw;
+    margin-top: 40px;
+    margin-left: 40px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+
+.b5 {
+    background-image: url(' https://img.freepik.com/free-photo/christmas-holidays-composition_658428-346.jpg?w=1060&t=st=1673764784~exp=1673765384~hmac=0180797453d35acfe08ed8038baa278cce0093337a5a126484da7cfee0c26f75');
+    height: 85vh;
+    width: 85vw;
+    background-size: cover;
+    box-shadow: 7px 7px 5px grey;
+    margin-top: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: brown;
+}
+
+.c5 {
+    height: 40vh;
+    width: 63vw;
+    margin-top: 40px;
+    margin-left: 40px;
+    box-shadow: 2px 2px 3px 2px black;
+}
